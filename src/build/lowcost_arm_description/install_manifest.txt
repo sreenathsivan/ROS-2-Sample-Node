@@ -1,0 +1,15 @@
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/ament_index/resource_index/package_run_dependencies/lowcost_arm_description
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/ament_index/resource_index/parent_prefix_path/lowcost_arm_description
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/environment/ament_prefix_path.sh
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/environment/ament_prefix_path.dsv
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/environment/path.sh
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/environment/path.dsv
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/local_setup.bash
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/local_setup.sh
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/local_setup.zsh
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/local_setup.dsv
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/package.dsv
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/ament_index/resource_index/packages/lowcost_arm_description
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/cmake/lowcost_arm_descriptionConfig.cmake
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/cmake/lowcost_arm_descriptionConfig-version.cmake
+/home/user/ros2_ws/src/install/lowcost_arm_description/share/lowcost_arm_description/package.xml

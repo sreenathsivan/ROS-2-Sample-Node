@@ -1,0 +1,4 @@
+source;share/lowcost_arm_description/local_setup.bash
+source;share/lowcost_arm_description/local_setup.dsv
+source;share/lowcost_arm_description/local_setup.sh
+source;share/lowcost_arm_description/local_setup.zsh

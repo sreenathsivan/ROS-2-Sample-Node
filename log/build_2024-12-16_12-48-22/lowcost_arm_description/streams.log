@@ -1,0 +1,20 @@
+[0.023s] Invoking command in '/home/user/ros2_ws/build/lowcost_arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/user/ros2_ws/build/lowcost_arm_description -- -j16 -l16
+[0.236s] Invoked command in '/home/user/ros2_ws/build/lowcost_arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/user/ros2_ws/build/lowcost_arm_description -- -j16 -l16
+[0.247s] Invoking command in '/home/user/ros2_ws/build/lowcost_arm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/user/ros2_ws/build/lowcost_arm_description
+[0.252s] -- Install configuration: ""
+[0.253s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/ament_index/resource_index/package_run_dependencies/lowcost_arm_description
+[0.253s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/ament_index/resource_index/parent_prefix_path/lowcost_arm_description
+[0.253s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/environment/ament_prefix_path.sh
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/environment/ament_prefix_path.dsv
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/environment/path.sh
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/environment/path.dsv
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/local_setup.bash
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/local_setup.sh
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/local_setup.zsh
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/local_setup.dsv
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/package.dsv
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/ament_index/resource_index/packages/lowcost_arm_description
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/cmake/lowcost_arm_descriptionConfig.cmake
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/cmake/lowcost_arm_descriptionConfig-version.cmake
+[0.254s] -- Up-to-date: /home/user/ros2_ws/install/lowcost_arm_description/share/lowcost_arm_description/package.xml
+[0.257s] Invoked command in '/home/user/ros2_ws/build/lowcost_arm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/user/ros2_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/user/ros2_ws/build/lowcost_arm_description
